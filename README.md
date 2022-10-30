@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aleyaktas&label=Profile%20views&color=0e75b6&style=flat" alt="aleyaktas" /> </p>
 
-- 👨‍💻 You can look my portfolio here [aleynaaktas.me](aleynaaktas.me)
+- 👨‍💻 You can look my portfolio here [aleynaaktas.me](https://aleynaaktas.me)
 
 - 💬 Ask me about **javascript, nodejs, react, storybook, socket.io**
 
