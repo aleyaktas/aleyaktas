@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋 I'm Aleyna Aktaş</h1>
 <h3 align="center">I am a final year computer engineering student at Pamukkale University. I love to code and learn new things.</h3>
 
-<img align="right" alt="Coding" width="300" src="https://cdna.artstation.com/p/assets/images/images/042/631/286/original/bryan-rodriguez-belchibia-1-rightspeed.gif?1635037562" >
+<img align="right" alt="Coding" width="230" src="https://cdna.artstation.com/p/assets/images/images/042/631/286/original/bryan-rodriguez-belchibia-1-rightspeed.gif?1635037562" >
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aleyaktas&label=Profile%20views&color=0e75b6&style=flat" alt="aleyaktas" /> </p>
 
