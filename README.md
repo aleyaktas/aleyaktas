@@ -7,7 +7,7 @@
 
 - 👨‍💻 You can look my portfolio here [aleynaaktas.me](https://aleynaaktas.me)
 
-- 💬 Ask me about **typescript, react, react native, next, nodejs, socket.io, storybook**
+- 💬 Ask me about **swift, UIkit, typescript, react, react native, next, nodejs, socket.io, storybook**
 
 - 📫 You can reach me **aleynaaktas627@gmail.com**
 
