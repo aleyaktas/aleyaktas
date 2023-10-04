@@ -1,4 +1,5 @@
 <h1 align="center">Hi 👋 I'm Aleyna</h1>
+
 <h3 align="center"> I like to improve myself and follow new technologies, read articles about them. So I'm familiar with a lot of technology and libraries. </h3>
 
 <img align="right" alt="Coding" width="230" src="https://cdna.artstation.com/p/assets/images/images/042/631/286/original/bryan-rodriguez-belchibia-1-rightspeed.gif?1635037562" >
@@ -18,7 +19,7 @@
 </p>
 
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aleyaktas&" alt="aleyaktas" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aleyaktas" alt="aleyaktas" /></p>
 
 <!--
 **aleyaktas/aleyaktas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
