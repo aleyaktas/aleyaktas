@@ -9,7 +9,7 @@
   <img src="https://komarev.com/ghpvc/?username=aleyaktas&label=Profile%20views&color=0e75b6&style=flat" alt="aleyaktas">
 </p>
 
-- 👨‍💻 You can look at my portfolio here: [aleynaaktas.me](https://aleynaaktas.me)
+- 👨‍💻 You can look at my portfolio here: [aleynaaktas.me](https://aleynaaktas.com)
 
 - 💬 Ask me about **Swift, UIKit, TypeScript, React, React Native, Next, Node.js, Socket.io, Storybook**
 
