@@ -2,9 +2,9 @@
 
 <h3 align="center" style="color: #1DA1F2;">I like to improve myself and follow new technologies, read articles about them. So I'm familiar with a lot of technology and libraries.</h3>
 
-
+<!--
 <img align="right" alt="Coding" width="230" src="https://cdna.artstation.com/p/assets/images/images/042/631/286/original/bryan-rodriguez-belchibia-1-rightspeed.gif?1635037562">
-
+!-->
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=aleyaktas&label=Profile%20views&color=0e75b6&style=flat" alt="aleyaktas">
 </p>
@@ -16,6 +16,7 @@
 - 📫 You can reach me at: [aleynaaktas.dev@gmail.com](mailto:aleynaaktas.dev@gmail.com)
 
 <hr>
+
 
 <p align="start">
   <a href="https://www.linkedin.com/in/aleynaaktas/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" height="40" width="150"></a>
